@@ -8,7 +8,7 @@
 }
 
 body {
-  background: linear-gradient(120deg, #2193b0, #6dd5ed);
+  background: linear-gradient(120deg, #86e7ff, #b7ffed);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -24,7 +24,7 @@ body {
 }
 
 .card {
-  background: linear-gradient(135deg, #00feba, #5b548a);
+  background: linear-gradient(135deg, #40e2b7, #9e90f3);
   color: #fff;
   border-radius: 20px;
   padding: 40px;
